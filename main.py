@@ -10,10 +10,11 @@ print("Hello! I'm CyHelp.")
 
 
 print("The field of Cybersecurity started in the 1970s when more and more information started being stored on computer systems and networks!")
-
+input("Press enter to continue.\n")
 
 #Describes Cybersecurity
-
+print("Cybersecurity refers to the practices that people use to protect computer systems and networks from digital threats.")
+print("These people can be government, nations, companies, community, organizations, and individuals")
 
 
 #Introduces CIA Triad
