@@ -2,6 +2,8 @@
 
 This is the Starter Code for CyHelp!
 
+In this project I used python to create a chatbot talking about the history of cybersecurity and the CIA triad. This project was made for the GWC cybersecurity pathway. If you would like to try it, just run it and follow the steps it gives you!
+
 ### Project Requirements
 Your project should:
 - Create print statements using string concatenation.
